@@ -41,5 +41,16 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago-Eulalio/vuejs-todolist-swa-projeto-bootcamp-serveless-Dio.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago-Eulalio/vuejs-todolist-swa-projeto-bootcamp-serveless-Dio/issues"
+  },
+  "homepage": "https://github.com/Thiago-Eulalio/vuejs-todolist-swa-projeto-bootcamp-serveless-Dio#readme",
+  "description": ""
 }
